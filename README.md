@@ -1,5 +1,6 @@
 # Feature Alignment R Package
-*This is an R package for feature alignment for vertical federated learning, we named it "FeatureAlignment"*
+*This is an R package for feature alignment in vertical federated learning, we named it "FeatureAlignment".*
+*This package enables seamless integration of features from diverse data sources, ensuring accurate and reliable model training in a privacy-preserving manner.*
 
 ## Key functions in FeatureAlignment:
 
